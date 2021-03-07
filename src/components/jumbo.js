@@ -1,7 +1,7 @@
-import "./styles.css";
+import "./style.css";
 import React from "react";
 
-function JumboTron() {
+function Jumbo() {
   return (
     <div className="jumbotron jumbotron-fluid text-center">
       <div className="container">
@@ -11,4 +11,4 @@ function JumboTron() {
     </div>
   );
 }
-export default JumboTron;
+export default Jumbo;
